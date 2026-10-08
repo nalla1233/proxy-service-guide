@@ -117,7 +117,26 @@ Netflix 官方建议，4K 和 1080p 的“每屏幕数据使用量”设置为 H
 
 首次购买时，建议先用较小金额验证是否适合自己的网络，不因宣传截图直接购买长期套餐。这是风险控制建议，不代表任何服务商经过本文认证。
 
-本文暂不推荐具体机场，也没有推广链接。后续加入服务商资料时，将区分官网声明和实际测量，并披露推广关系及核验日期。
+## 推广服务入口：品牌名称与地址
+
+推广说明：以下名单由本仓库维护方提供，并表示属于其推广服务，因此不是独立第三方排名。这里只核对了网站可访问性与页面显示名称，没有测试应用、付费节点或 Netflix 播放，也没有验证域名运营主体及下载文件安全。排列顺序沿用提供顺序，不代表性能优劣。
+
+| 页面显示名称 | 维护方提供的服务入口 | Netflix / 4K 验证状态 |
+| --- | --- | --- |
+| TTcloud加速器 | [www.ttcloudapp.cn](https://www.ttcloudapp.cn/) | 未实测 |
+| ahaspeed加速器 | [www.ahaspeed.cn](https://www.ahaspeed.cn/) | 未实测 |
+| 星连加速器 | [www.xinglianjsq.cn](https://www.xinglianjsq.cn/) | 未实测 |
+| Palantir加速器（PalantirVPN） | [www.palantirvpn.cn](https://www.palantirvpn.cn/) | 未实测 |
+| Drift加速器（DriftVPN） | [www.driftvpn.cn](https://www.driftvpn.cn/) | 未实测 |
+| 极点加速器 | [www.jidianapp.cn](https://www.jidianapp.cn/) | 未实测 |
+| vilavpn加速器 | [www.vilajsq.cn](https://www.vilajsq.cn/) | 未实测 |
+| aptvpn加速器 | [www.aptvpn.cn](https://www.aptvpn.cn/) | 未实测 |
+| 狗狗加速器 | [www.gougouapp.cn](https://www.gougouapp.cn/) | 未实测 |
+| 狗急加速器 | [www.goujiapp.cn](https://www.goujiapp.cn/) | 未实测 |
+
+名称来源为上表对应网站的首页标题与正文，核对日期为 2026-10-08。页面将产品称为加速器或 VPN；是否提供第三方客户端订阅，不能仅凭这些名称确定。
+
+如果打算用于奈飞，建议先向服务方确认套餐、目标设备及 Netflix 支持范围，再按本文方法验证实际播放。网页上的“28 ms”“48.6 Mbps”等展示数字没有附上可复核的测试条件，不能作为本文的测速结果。下载或付款前，请自行核对软件发布者、隐私政策、退款规则及适用法律。
 
 ## 常见问题
 
