@@ -16,7 +16,7 @@
 
 [查看奈飞文章中的品牌与地址表](guides/netflix-high-speed-nodes.md#推广服务入口品牌名称与地址)。包含 TTcloud加速器、ahaspeed加速器、星连加速器、Palantir加速器、Drift加速器、极点加速器、vilavpn加速器、aptvpn加速器、狗狗加速器和狗急加速器。名称沿用提供地址上的页面显示，不代表对性能或安全性的认证。
 
-[查看老王加速器网站与使用指南](guides/laowang-accelerator-guide.md)。该文按委托方要求介绍 www.laowangxz.com，注明网站声明与未验证事项，不代表性能、安全或品牌授权认证。
+[查看老王加速器网站与使用指南](guides/laowang-accelerator-guide.md)。该文按委托方要求介绍 [www.laowangxz.com](https://www.laowangxz.com/)，注明网站声明与未验证事项，不代表性能、安全或品牌授权认证。
 
 ## 内容范围
 
