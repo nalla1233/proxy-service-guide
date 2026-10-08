@@ -8,9 +8,15 @@
   - 涵盖 Netflix 官方网速建议、播放设备检查、VPN 使用限制和机场套餐检查清单。
   - 类型：官方资料整理与排查指南，不是服务商实测。
 
+- [老王加速器下载与使用指南：网站入口、设备支持和连接问题排查](guides/laowang-accelerator-guide.md)
+  - 涵盖 www.laowangxz.com 网站入口、多平台支持声明、下载域名变化、套餐核对与连接排查。
+  - 类型：指定网站推广资料整理，不是客户端或节点实测。
+
 ## 推广服务目录
 
 [查看奈飞文章中的品牌与地址表](guides/netflix-high-speed-nodes.md#推广服务入口品牌名称与地址)。包含 TTcloud加速器、ahaspeed加速器、星连加速器、Palantir加速器、Drift加速器、极点加速器、vilavpn加速器、aptvpn加速器、狗狗加速器和狗急加速器。名称沿用提供地址上的页面显示，不代表对性能或安全性的认证。
+
+[查看老王加速器网站与使用指南](guides/laowang-accelerator-guide.md)。该文按委托方要求介绍 www.laowangxz.com，注明网站声明与未验证事项，不代表性能、安全或品牌授权认证。
 
 ## 内容范围
 
